@@ -5,6 +5,6 @@ ADB is much faster than using MTP.
 
 # Usage
 
-`
+```
 ./send2phone.py "path to file 1" "path to file 2" "etc"
-`
+```
